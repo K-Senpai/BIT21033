@@ -3,10 +3,22 @@ BIT21033
 BSIT 7th Semester (Morning)
 
 Assignment 1
-MATLAB Code for Euclidean Distance
+Feature Extraction 1
 
 Assignment 2
-MATLAB Code for City Block Distance 
+Feature Extraction 2
 
-Assignmnet 3
-MATLAB Code for Chessboard Distance
+Assignment 3
+Euclidean Distance
+
+Assignment 4
+City Block Distance 
+
+Assignmnet 5
+Chessboard Distance
+
+Assignment 6
+Exercie 1
+
+Assignment 7
+Exercise 2
