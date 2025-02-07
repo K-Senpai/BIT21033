@@ -1,6 +1,6 @@
 Feature Extraction:
-
 Boundary Detection:
+
 Code:
 % Read the image
 Coins = imread('coins.png');
