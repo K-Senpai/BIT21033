@@ -1,4 +1,5 @@
 Feature Extraction:
+
 Code:
 % Read the image
 Coins = imread('coins.png');
