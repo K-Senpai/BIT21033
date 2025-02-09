@@ -23,7 +23,7 @@ Exercie 1
 Assignment 7
 Exercise 2
 
-Semester Project: Currency Detection
-BIT21033 Ahmad Anas Farani (Team Lead)
-BIT21056 Abdul Haseeb
+Semester Project: Currency Detection RAR file
+BIT21033 Ahmad Anas Farani (Team Lead),
+BIT21056 Abdul Haseeb,
 BIT21025 Sher Ali
